@@ -1,7 +1,8 @@
 # githubservice
 
 A small service in GO exercising github.com rest API
-This is a small service written in Go, it uses the net/http library, it marshall/unmarshall json documents, implements a servicelog and it uses unit tests and packages to enforce modularity.
+This is a small service written in Go. 
+it uses the net/http library, it marshall/unmarshall json documents, implements a servicelog and it uses unit tests and packages to enforce modularity.
 I did it to exercise myself with the Go constructors: net/http, json, routines, packages, files, unit tests.
 
 The goal of this exercise is to write an HTTP service against GitHub’s API with the following
