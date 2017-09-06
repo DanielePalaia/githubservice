@@ -18,11 +18,11 @@ Run in your machine:
 
 Assuming the GOPATH, GOROOT are set correctly the project can be compiled in this way:
 
-go install newrelic
+go install githubservice
 
 and find the newrelic binary inside GOPATH/bin and run from there.
 
-./newrelic
+./githubservice
 
 You can test with
 
@@ -37,7 +37,7 @@ to run the test suite.
 A Dockerfile is provided, so you can just:
 
 sudo  docker build -t newrelic .
-docker run --publish 6060:8080 --name test --rm newrelic
+docker run --publish 6060:8080 --name test --rm githubservice
 
 The process is then running on external port 6060
 
