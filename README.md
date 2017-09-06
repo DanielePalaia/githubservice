@@ -1,5 +1,6 @@
 # githubservice
 
+Read doc/doc.txt for more info.
 A small service in GO exercising github.com rest API
 This is a small service written in Go. 
 it uses the net/http library, it marshall/unmarshall json documents, implements a servicelog and it uses unit tests and packages to enforce modularity.
