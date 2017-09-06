@@ -1,0 +1,1000 @@
+  577  vim maprooms.jsontmp
+  578  vim maprooms.json
+  579  ./exercise 
+  580  vim maprooms.json
+  581  vim exercise.go 
+  582  go build exercise.go
+  583  vim exercise.go 
+  584  go build exercise.go
+  585  ./exercise 
+  586  vim exercise.go 
+  587  go build exercise.go
+  588  vim exercise.go 
+  589  go build exercise.go
+  590  ./exercise 
+  591  ls
+  592  ./exercise 
+  593  vim exercise.go 
+  594  go build exercise.go
+  595  vim exercise.go 
+  596  go build exercise.go
+  597  vim exercise.go 
+  598  go build exercise.go
+  599  vim exercise.go 
+  600  go build exercise.go
+  601  vim exercise.go 
+  602  go build exercise.go
+  603  ./exercise 
+  604  vim exercise.go 
+  605  go build exercise.go
+  606  ./exercise 
+  607  vim exercise.go 
+  608  go build exercise.go
+  609  ./exercise 
+  610  vim exercise.go 
+  611  go build exercise.go
+  612  ./exercise 
+  613  vim exercise.go 
+  614  go build exercise.go
+  615  ./exercise 
+  616  vim exercise.go 
+  617  go build exercise.go
+  618  ./exercise 
+  619  ls
+  620  vim maprooms.json
+  621  vim exercise.go 
+  622  go build exercise.go
+  623  vim exercise.go 
+  624  go build exercise.go
+  625  ./exercise 
+  626  vim exercise.go 
+  627  go build exercise.go
+  628  vim exercise.go 
+  629  vim tests.go
+  630  vim exercise.go 
+  631  vim tests.go
+  632  vim exercise.go 
+  633  go build exercise.go
+  634  vim exercise.go 
+  635  go build exercise.go
+  636  vim exercise.go 
+  637  go build exercise.go
+  638  vim exercise.go 
+  639  go build exercise.go
+  640  vim exercise.go 
+  641  go build exercise.go
+  642  vim exercise.go 
+  643  go build exercise.go
+  644  vim exercise.go 
+  645  go build exercise.go
+  646  vim exercise.go 
+  647  go build exercise.go
+  648  vim exercise.go 
+  649  go build exercise.go
+  650  vim exercise.go 
+  651  go build exercise.go
+  652  vim exercise.go 
+  653  go build exercise.go
+  654  vim exercise.go 
+  655  go build exercise.go
+  656  vim exercise.go 
+  657  go build exercise.go
+  658  vim exercise.go 
+  659  go build exercise.go
+  660  vim exercise.go 
+  661  go build exercise.go
+  662  vim exercise.go 
+  663  go build exercise.go
+  664  vim exercise.go 
+  665  go build exercise.go
+  666  ./exercise 
+  667  vim exercise.go 
+  668  go build exercise.go
+  669  vim exercise.go 
+  670  go build exercise.go
+  671  vim exercise.go 
+  672  go build exercise.go
+  673  ./exercise 
+  674  vim exercise.go 
+  675  go build exercise.go
+  676  ./exercise 
+  677  vim exercise.go 
+  678  go build exercise.go
+  679  ./exercise 
+  680  vim exercise.go 
+  681  go build exercise.go
+  682  ./exercise 
+  683  vim exercise.go 
+  684  go build exercise.go
+  685  ./exercise 
+  686  vim exercise.go 
+  687  go build exercise.go
+  688  vim exercise.go 
+  689  go build exercise.go
+  690  vim exercise.go 
+  691  go build exercise.go
+  692  vim exercise.go 
+  693  go build exercise.go
+  694  vim exercise.go 
+  695  go build exercise.go
+  696  vim exercise.go 
+  697  go build exercise.go
+  698  vim exercise.go 
+  699  go build exercise.go
+  700  vim exercise.go 
+  701  go build exercise.go
+  702  vim exercise.go 
+  703  go build exercise.go
+  704  vim exercise.go 
+  705  go build exercise.go
+  706  vim exercise.go 
+  707  go build exercise.go
+  708  vim exercise.go 
+  709  go build exercise.go
+  710  vim exercise.go 
+  711  go build exercise.go
+  712  vim exercise.go 
+  713  go build exercise.go
+  714  vim exercise.go 
+  715  go build exercise.go
+  716  vim exercise.go 
+  717  go build exercise.go
+  718  ./exercise 
+  719  vim exercise.go 
+  720  go build exercise.go
+  721  vim exercise.go 
+  722  go build exercise.go
+  723  ./exercise 
+  724  vim exercise.go 
+  725  go build exercise.go
+  726  ./exercise 
+  727  vim exercise.go 
+  728  go build exercise.go
+  729  ./exercise 
+  730  vim exercise.go 
+  731  go build exercise.go
+  732  ./exercise 
+  733  vim exercise.go 
+  734  go build exercise.go
+  735  ./exercise 
+  736  vim exercise.go 
+  737  go build exercise.go
+  738  ./exercise 
+  739  vim exercise.go 
+  740  go build exercise.go
+  741  ./exercise 
+  742  vim exercise.go 
+  743  go build exercise.go
+  744  ./exercise 
+  745  vim exercise.go 
+  746  go build exercise.go
+  747  ./exercise 
+  748  vim exercise.go 
+  749  go build exercise.go
+  750  ./exercise 
+  751  vim exercise.go 
+  752  go build exercise.go
+  753  ./exercise 
+  754  vim exercise.go 
+  755  go build exercise.go
+  756  ./exercise 
+  757  vim exercise.go 
+  758  go build exercise.go
+  759  ./exercise 
+  760  vim exercise.go 
+  761  go build exercise.go
+  762  ./exercise 
+  763  vim exercise.go 
+  764  go build exercise.go
+  765  ./exercise 
+  766  vim exercise.go 
+  767  go build exercise.go
+  768  vim exercise.go 
+  769  go build exercise.go
+  770  vim exercise.go 
+  771  go build exercise.go
+  772  vim exercise.go 
+  773  go build exercise.go
+  774  vim exercise.go 
+  775  go build exercise.go
+  776  ./exercise 
+  777  vim exercise.go 
+  778  go build exercise.go
+  779  ./exercise 
+  780  vim exercise.go 
+  781  go build exercise.go
+  782  ./exercise 
+  783  vim exercise.go 
+  784  go build exercise.go
+  785  ./exercise 
+  786  vim exercise.go 
+  787  go build exercise.go
+  788  ./exercise 
+  789  vim exercise.go 
+  790  go build exercise.go
+  791  ./exercise 
+  792  vim exercise.go 
+  793  go build exercise.go
+  794  ./exercise 
+  795  vim exercise.go 
+  796  go build exercise.go
+  797  vim exercise.go 
+  798  go build exercise.go
+  799  ./exercise 
+  800  vim exercise.go 
+  801  go build exercise.go
+  802  ./exercise 
+  803  vim exercise.go 
+  804  go build exercise.go
+  805  ./exercise 
+  806  vim exercise.go 
+  807  go build exercise.go
+  808  ./exercise 
+  809  vim exercise.go 
+  810  go build exercise.go
+  811  vim exercise.go 
+  812  go build exercise.go
+  813  ./exercise 
+  814  vim exercise.go 
+  815  go build exercise.go
+  816  ./exercise 
+  817  vim exercise.go 
+  818  go build exercise.go
+  819  ./exercise 
+  820  vim exercise.go 
+  821  go build exercise.go
+  822  ./exercise 
+  823  vim exercise.go 
+  824  go build exercise.go
+  825  ./exercise 
+  826  vim exercise.go 
+  827  go build exercise.go
+  828  ./exercise 
+  829  vim exercise.go 
+  830  go build exercise.go
+  831  vim exercise.go 
+  832  go build exercise.go
+  833  ./exercise 
+  834  vim exercise.go 
+  835  go build exercise.go
+  836  vim exercise.go 
+  837  go build exercise.go
+  838  ./exercise 
+  839  vim exercise.go 
+  840  ./exercise 
+  841  vim exercise.go 
+  842  go build exercise.go
+  843  ./exercise 
+  844  ls
+  845  rm exercise
+  846  rm map.json
+  847  ls
+  848  rm maprooms.jsontmp 
+  849  ls
+  850  mv maprooms.json testdata.json
+  851  ls
+  852  vim exercise.go 
+  853  go build exercise.go
+  854  ./exercise 
+  855  vim exercise.go 
+  856  go build exercise.go
+  857  vim exercise.go 
+  858  go build exercise.go
+  859  vim exercise.go 
+  860  go build exercise.go
+  861  vim exercise.go 
+  862  go build exercise.go
+  863  vim exercise.go 
+  864  go build exercise.go
+  865  ./example
+  866  ls
+  867  ./exercise 
+  868  ls
+  869  cp exercise.go exercise.gotmp
+  870  ls
+  871  vim exercise.go
+  872  vim main.go
+  873  vim exercise.go
+  874  vim main.go
+  875  vim exercise.go
+  876  vim main.go
+  877  go build main.go exercise.go
+  878  vim main.go
+  879  ls
+  880  mkdir main
+  881  mkdir mapex
+  882  ls
+  883  cp main.go main
+  884  cp exercise.go mapex
+  885  cd main
+  886  ls
+  887  vim main.go 
+  888  go build main.go
+  889  ls
+  890  cd ..
+  891  cd mapex
+  892  ls
+  893  go build exercise.go 
+  894  ls
+  895  cd ..
+  896  cd main
+  897  go build main.go
+  898  pwd
+  899  cd ..
+  900  ls
+  901  cd mapex
+  902  go install exercise.go 
+  903  pwd
+  904  goenv
+  905  go env
+  906  export GOBIN=/home/daniele/test
+  907  go install exercise.go 
+  908  go env
+  909  go install exercise.go 
+  910  pwd
+  911  cd ..
+  912  ls
+  913  vim main.go
+  914  vim exercise.go
+  915  go install exercise.go 
+  916  vim exercise.go
+  917  go install exercise.go 
+  918  ./exercise 
+  919  vim exercise.go
+  920  go install exercise.go 
+  921  vim exercise.go
+  922  go install exercise.go 
+  923  ./exercise 
+  924  vim exercise.go
+  925  go install exercise.go 
+  926  vim exercise.go
+  927  ls
+  928  vim testdata.json
+  929  vim exercise.go
+  930  go build main.go
+  931  go build exercise.go
+  932  vim exercise.go
+  933  go build exercise.go
+  934  vim exercise.go
+  935  go build exercise.go
+  936  vim exercise.go
+  937  go build exercise.go
+  938  vim exercise.go
+  939  go build exercise.go
+  940  vim exercise.go
+  941  go build exercise.go
+  942  vim exercise.go
+  943  go build exercise.go
+  944  vim exercise.go
+  945  go build exercise.go
+  946  vim exercise.go
+  947  go build exercise.go
+  948  vim exercise.go
+  949  go build exercise.go
+  950  vim exercise.go
+  951  go build exercise.go
+  952  vim exercise.go
+  953  go build exercise.go
+  954  vim exercise.go
+  955  go build exercise.go
+  956  vim exercise.go
+  957  go build exercise.go
+  958  vim exercise.go
+  959  go build exercise.go
+  960  vim exercise.go
+  961  go build exercise.go
+  962  vim exercise.go
+  963  go build exercise.go
+  964  vim exercise.go
+  965  go build exercise.go
+  966  vim exercise.go
+  967  go build exercise.go
+  968  vim exercise.go
+  969  go build exercise.go
+  970  vim exercise.go
+  971  go build exercise.go
+  972  vim exercise.go
+  973  go build exercise.go
+  974  vim exercise.go
+  975  go build exercise.go
+  976  vim exercise.go
+  977  go build exercise.go
+  978  vim exercise.go
+  979  go build exercise.go
+  980  vim exercise.go
+  981  go build exercise.go
+  982  vim exercise.go
+  983  go build exercise.go
+  984  vim exercise.go
+  985  go build exercise.go
+  986  vim exercise.go
+  987  go build exercise.go
+  988  vim exercise.go
+  989  go build exercise.go
+  990  vim exercise.go
+  991  go build exercise.go
+  992  vim exercise.go
+  993  go build exercise.go
+  994  vim exercise.go
+  995  go build exercise.go
+  996  vim exercise.go
+  997  go build exercise.go
+  998  vim exercise.go
+  999  go build exercise.go
+ 1000  vim exercise.go
+ 1001  go build exercise.go
+ 1002  vim exercise.go
+ 1003  go build exercise.go
+ 1004  vim exercise.go
+ 1005  ls
+ 1006  vim testdata.json
+ 1007  vim exercise.go
+ 1008  vim testdata.json
+ 1009  go build exercise.go
+ 1010  vim testdata.json
+ 1011  vim exercise.go
+ 1012  go build exercise.go
+ 1013  vim exercise.go
+ 1014  go build exercise.go
+ 1015  vim exercise.go
+ 1016  go test
+ 1017  go build exercise.go
+ 1018  go --version
+ 1019  go version
+ 1020  sudo apt-get update golang
+ 1021  sudo apt-get purge golang
+ 1022  sudo apt-get install golang-1.8-go
+ 1023  sudo add-apt-repository ppa:longsleep/golang-backports
+ 1024  sudo apt-get update
+ 1025  sudo apt-get install golang-go
+ 1026  go version
+ 1027  sudo apt-get install golang-go
+ 1028  sudo apt-get remove golang-go
+ 1029  go version
+ 1030  go build exercise.go
+ 1031  apt-get remove golang
+ 1032  go env
+ 1033  echo $PATH
+ 1034  cd /home/daniele
+ 1035  vim .bashrc
+ 1036  vim .bashrc 
+ 1037  ls -all
+ 1038  vim .bashrc
+ 1039  vim .profile
+ 1040  source .profile
+ 1041  go
+ 1042  go version
+ 1043  source .bashrc
+ 1044  go version
+ 1045  go
+ 1046  echo $PATH
+ 1047  vim .profile
+ 1048  cd /usr/local/go
+ 1049  ls
+ 1050  go
+ 1051  go version
+ 1052  apt -get remove golang
+ 1053  apt-get remove golang
+ 1054  sudo apt-get remove golang
+ 1055  sudo apt-get remove go
+ 1056  locate go
+ 1057  locate golang
+ 1058  cd /usr/local/go
+ 1059  ls
+ 1060  cd ..
+ 1061  ls
+ 1062  sudo rm -fR go
+ 1063  go
+ 1064  sudo apt-get install golang
+ 1065  go
+ 1066  golang-go
+ 1067  go buid
+ 1068  sudo apt-get install golang-go
+ 1069  go version
+ 1070  sudo apt-get install golang-1.8-go
+ 1071  sudo add-apt-repository ppa:longsleep/golang-backports
+ 1072  sudo apt-get update
+ 1073  sudo apt-get install golang-go
+ 1074  go
+ 1075  sudo apt-get remove -y gccgo-go && wget http://golang.org/dl/go1.8.linux-amd64.tar.gz && sudo apt-get -y install gcc && sudo tar -C /usr/local -xzf go1.8.2.linux-amd64.tar.gz && echo "export PATH=\$PATH:/usr/local/go/bin" >> ~/.bashrc
+ 1076  cd /home/daniele
+ 1077  wget http://golang.org/dl/go1.8.linux-amd64.tar.gz
+ 1078  ls
+ 1079  tar -C /usr/local -xzf go1.8.linux-amd64.tar.gz
+ 1080  sudo tar -C /usr/local -xzf go1.8.linux-amd64.tar.gz
+ 1081  ls
+ 1082  rm go1.8.linux-amd64.tar.gz
+ 1083  sudo wget http://golang.org/dl/go1.8.linux-amd64.tar.gz
+ 1084  ls
+ 1085  vim yrdy
+ 1086  cd test
+ 1087  ls
+ 1088  vim exercise.go
+ 1089  pwd
+ 1090  cd ..
+ 1091  cd Documenti/
+ 1092  cd ..
+ 1093  ls
+ 1094  cd Scaricati/
+ 1095  ls
+ 1096  sudo tar -C /usr/local -xzf go1.8.linux-amd64.tar.gz
+ 1097  pwd
+ 1098  cd ..
+ 1099  ls
+ 1100  vim .bashrc 
+ 1101  vim .profile
+ 1102  go
+ 1103  go version
+ 1104  pwd
+ 1105  ls
+ 1106  cd test
+ 1107  ls
+ 1108  go build exercise.go
+ 1109  vim exercise.go
+ 1110  go build exercise.go
+ 1111  vim exercise.go
+ 1112  go build exercise.go
+ 1113  vim exercise.go
+ 1114  go build exercise.go
+ 1115  vim exercise.go
+ 1116  go build exercise.go
+ 1117  vim exercise.go
+ 1118  go test run
+ 1119  go test 
+ 1120  vim exercise.go
+ 1121  go test 
+ 1122  go build exercise.go
+ 1123  vim exercise.go
+ 1124  go build exercise.go
+ 1125  ./exercise 
+ 1126  vim exercise.go
+ 1127  go build exercise.go
+ 1128  vim exercise.go
+ 1129  go build exercise.go
+ 1130  gofmt -w exercise.go
+ 1131  vim exercise.go
+ 1132  go build exercise.go
+ 1133  go version
+ 1134  vim exercise.go
+ 1135  go build exercise.go
+ 1136  vim exercise.go
+ 1137  go build exercise.go
+ 1138  vim exercise.go
+ 1139  go build exercise.go
+ 1140  vim exercise.go
+ 1141  go build exercise.go
+ 1142  vim exercise.go
+ 1143  go build exercise.go
+ 1144  vim exercise.go
+ 1145  go build exercise.go
+ 1146  vim exercise.go
+ 1147  go build exercise.go
+ 1148  vim exercise.go
+ 1149  go build exercise.go
+ 1150  vim exercise.go
+ 1151  go build exercise.go
+ 1152  pwd
+ 1153  cd ..
+ 1154  cd Scaricati
+ 1155  ls
+ 1156  history
+ 1157  /tar
+ 1158  tar -C /usr/local -xzf go1.7.6.freebsd-amd64.tar.gz
+ 1159  sudo tar -C /usr/local -xzf go1.7.6.freebsd-amd64.tar.gz
+ 1160  ls
+ 1161  sudo tar -C /usr/local -xzf go1.7.6.linux-amd64.tar.gz
+ 1162  go version
+ 1163  pwd
+ 1164  cd ..
+ 1165  ls
+ 1166  cd test
+ 1167  ls
+ 1168  go build exercise.go
+ 1169  vim exercise.go
+ 1170  go build exercise.go
+ 1171  vim exercise.go
+ 1172  go test -v
+ 1173  go test 
+ 1174  ls
+ 1175  rm tests.go
+ 1176  go test -v
+ 1177  ls
+ 1178  rm main.go
+ 1179  rm -fR mapex
+ 1180  ls
+ 1181  rm exercise.gotmp 
+ 1182  ls
+ 1183  go test -v
+ 1184  vim exercise.go
+ 1185  vim tests.go
+ 1186  vim exercise.go
+ 1187  vim tests.go
+ 1188  go test -v
+ 1189  vim tests.go
+ 1190  go test -v
+ 1191  ls
+ 1192  vim exercise.go
+ 1193  go test -v
+ 1194  vim exercise.go
+ 1195  go test -v
+ 1196  vim tests.go
+ 1197  ls
+ 1198  mv tests.go exercise_test.go
+ 1199  ls
+ 1200  go test -v
+ 1201  vim tests.go
+ 1202  ls
+ 1203  vim exercise_test.go 
+ 1204  go test -v
+ 1205  vim exercise_test.go 
+ 1206  go test -v
+ 1207  vim exercise_test.go 
+ 1208  go test -v
+ 1209  vim exercise_test.go 
+ 1210  go test -v
+ 1211  vim exercise_test.go 
+ 1212  go test -v
+ 1213  vim exercise_test.go 
+ 1214  ls
+ 1215  vim exercise.go
+ 1216  go build exercise.go
+ 1217  ./exercise 
+ 1218  ls
+ 1219  go test -run
+ 1220  go test -v
+ 1221  vim exercise.go
+ 1222  ls
+ 1223  vim exercise_test.go 
+ 1224  go test -v
+ 1225  vim exercise_test.go 
+ 1226  go test -v
+ 1227  vim exercise_test.go 
+ 1228  go test -v
+ 1229  ls
+ 1230  vim exercise.go
+ 1231  go build exercise.go
+ 1232  ./exercise 
+ 1233  vim exercise.go
+ 1234  go build exercise.go
+ 1235  vim exercise.go
+ 1236  go build exercise.go
+ 1237  vim exercise.go
+ 1238  go build exercise.go
+ 1239  vim exercise.go
+ 1240  go build exercise.go
+ 1241  vim exercise.go
+ 1242  go build exercise.go
+ 1243  vim exercise.go
+ 1244  go build exercise.go
+ 1245  vim exercise.go
+ 1246  ls
+ 1247  vim exercise_test.go 
+ 1248  vim exercise.go
+ 1249  go build exercise.go
+ 1250  vim exercise.go
+ 1251  go build exercise.go
+ 1252  vim exercise.go
+ 1253  go build exercise.go
+ 1254  vim exercise.go
+ 1255  go build exercise.go
+ 1256  ./exercise 
+ 1257  vim exercise.go
+ 1258  go build exercise.go
+ 1259  ./exercise 
+ 1260  vim exercise.go
+ 1261  go build exercise.go
+ 1262  ./exercise 
+ 1263  vim exercise.go
+ 1264  go build exercise.go
+ 1265  vim exercise.go
+ 1266  go build exercise.go
+ 1267  ./exercise 
+ 1268  vim exercise.go
+ 1269  go build exercise.go
+ 1270  ./exercise 
+ 1271  vim exercise.go
+ 1272  go build exercise.go
+ 1273  ./exercise 
+ 1274  vim exercise.go
+ 1275  go build exercise.go
+ 1276  ./exercise 
+ 1277  vim exercise.go
+ 1278  ./exercise 
+ 1279  vim exercise.go
+ 1280  go build exercise.go
+ 1281  ./exercise 
+ 1282  curl localhost:8080/location=Barcelona+50
+ 1283  go build exercise.go
+ 1284  pwd
+ 1285  cd go
+ 1286  ls
+ 1287  cd src
+ 1288  cd new
+ 1289  cd newrelic/
+ 1290  ls
+ 1291  godep build service.go
+ 1292  gop build service.go
+ 1293  go build service.go
+ 1294  pwd
+ 1295  ls
+ 1296  mkdir test
+ 1297  cd test
+ 1298  vim pull_request.json
+ 1299  curl localhost:8080/location=Barcelona+50
+ 1300  ls
+ 1301  cd go
+ 1302  cd sr
+ 1303  cd src
+ 1304  cd newrelic/
+ 1305  ls
+ 1306  cd test
+ 1307  ls
+ 1308  vim pull_requests_data.json
+ 1309  curl localhost:8080/location=Barcelona+50
+ 1310  curl https://daniele985@gmail.com:Dracula985@api.github.com/repos/clarkie/dynogels/contributors
+ 1311  curl https://daniele985@gmail.com:Dracula985@api.github.com/repos/clarkie/dynogels/
+ 1312  curl https://daniele985@gmail.com:Dracula985@api.github.com/repos/BlackrockDigital/startbootstrap
+ 1313  curl https://daniele985@gmail.com:Dracula985@api.github.com/repos/BlackrockDigital/startbootstrap/contributors
+ 1314  curl localhost:8080/location=Barcelona+50
+ 1315  curl https://daniele985@gmail.com:Dracula985@api.github.com/repos/BlackrockDigital/startbootstrap/contributors
+ 1316  curl localhost:8080/location=Barcelona+50
+ 1317  curl https://:@api.github.com/search/users?q=+location:Barcelona&sort=repositories&page=1&per_page=150
+ 1318  :q!
+ 1319  curl https://:@api.github.com/search/users?q=+location:Barcelona&sort=repositories&page=1&per_page=150
+ 1320  curl localhost:8080/location=Barcelona+50
+ 1321  curl http://daniele985@gmail.com:Dracula985@api.github.com/repos/resin-io-modules/resin-request/contributors
+ 1322  curl http://api.github.com/repos/resin-io-modules/resin-request/contributors
+ 1323  curl http://daniele985@gmail.com:Dracula985@api.github.com/repos/resin-io-modules/resin-request/contributors
+ 1324  curl http://api.github.com/repos/resin-io-modules/resin-request/contributors
+ 1325  curl http://DanielePalaia:Dracula985@api.github.com/repos/resin-io-modules/resin-request/contributors
+ 1326  curl localhost:8080/location=Barcelona+50
+ 1327  curl http://DanielePalaia:Dracula985@api.github.com/repos/resin-io-modules/resin-request/contributors
+ 1328  curl http://DanielePalaia:Dracula985@api.github.com/repos/resin-io-modules/resin-request/
+ 1329  curl -i https://api.github.com/users/octocat
+ 1330  curl -i https://DanielePalaia:Dracula985@api.github.com/users/octocat
+ 1331  curl localhost:8080/location=Barcelona+50
+ 1332  curl -i https://DanielePalaia:Dracula985@api.github.com/users/octocat
+ 1333  curl localhost:8080/location=Barcelona+50
+ 1334  ls
+ 1335  cd log
+ 1336  ls
+ 1337  cd logs
+ 1338  pwd
+ 1339  curl localhost:8080/location=Barcelona+50
+ 1340  http://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/contributors
+ 1341  curl http://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/contributors
+ 1342  curl http://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/
+ 1343  curl http://DanielePalaia:Dracula985@api.github.com/repos/uvinum/
+ 1344  curl http://DanielePalaia:Dracula985@api.github.com/repos/uvinum
+ 1345  curl https://api.github.com/repos/uvinum/joiner/contributors
+ 1346  curl https://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/contributors
+ 1347  curl localhost:8080/location=Barcelona+50
+ 1348  curl https://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/contributors
+ 1349  curl localhost:8080/location=Barcelona+50
+ 1350  curl https://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/contributors
+ 1351  curl localhost:8080/location=Barcelona+50
+ 1352  pwd
+ 1353  curl localhost:8080/location=Barcelona+50
+ 1354  curl https://DanielePalaia:Dracula985@api.github.com/repos/uvinum/joiner/contributors
+ 1355  curl localhost:8080/location=Barcelona+50
+ 1356  curl -i https://DanielePalaia:Dracula985@api.github.com/users/octocat
+ 1357  curl -i https://api.github.com/users/octocat
+ 1358  curl localhost:8080/location=Barcelona+50
+ 1359  curl -i https://api.github.com/users/octocat
+ 1360  curl https://api.github.com/repos/uvinum/joiner/contributors
+ 1361  curl -i https://api.github.com/users/octocat
+ 1362  curl localhost:8080/location=Barcelona+50
+ 1363  curl -i https://api.github.com/users/octocat
+ 1364  curl localhost:8080/location=Barcelona+50
+ 1365  https://:@api.github.com/search/users?q=+location:Barcelona&sort=repositories&page=1&per_page=50
+ 1366  curl localhost:8080/location=Barcelona+50
+ 1367  curl -i https://DanielePalaia:Dracula985@api.github.com/users/octocat
+ 1368  curl localhost:8080/location=Barcelona+50
+ 1369  curl -i https://api.github.com/users/octocat
+ 1370  sudo shutdown
+ 1371  curl localhost:8080/location=Barcelona+50
+ 1372  history
+ 1373  cd gosrc
+ 1374  ls
+ 1375  cd src
+ 1376  cd newrelic/
+ 1377  ls
+ 1378  ./service
+ 1379  go build service.go
+ 1380  ./service
+ 1381  go build service.go
+ 1382  ./service
+ 1383  go build service.go
+ 1384  ./service
+ 1385  go build service.go
+ 1386  ./service
+ 1387  go build service.go
+ 1388  ./service
+ 1389  go build service.go
+ 1390  ./service
+ 1391  go build service.go
+ 1392  ./service
+ 1393  go build service.go
+ 1394  ./service
+ 1395  go build service.go
+ 1396  ./service
+ 1397  go build service.go
+ 1398  ./service
+ 1399  go build service.go
+ 1400  ./service
+ 1401  go build service.go
+ 1402  ./service
+ 1403  go build service.go
+ 1404  ./service
+ 1405  go build service.go
+ 1406  ./service
+ 1407  go build service.go
+ 1408  ./service
+ 1409  go build service.go
+ 1410  ./service
+ 1411  go build service.go
+ 1412  ./service
+ 1413  go build service.go
+ 1414  ./service
+ 1415  go build service.go
+ 1416  ./service
+ 1417  go build service.go
+ 1418  ./service
+ 1419  go build service.go
+ 1420  ./service
+ 1421  curl https://DanielePalaia:Dracula985@api.github.com/search/users?q=+location:Barcelona&sort=repositories&page=1&per_page=150
+ 1422  go build service.go
+ 1423  curl https://DanielePalaia:Dracula985@api.github.com/search/users?q=+location:Barcelona&sort=repositories&page=1&per_page=150
+ 1424  ./service
+ 1425  curl https://DanielePalaia:Dracula985@api.github.com/search/users?q=+location:Barcelona&sort=repositories&page=1&per_page=150
+ 1426  go build service.go
+ 1427  ./service
+ 1428  go build service.go
+ 1429  ./service
+ 1430  cd logs
+ 1431  ls
+ 1432  vim mylogger.log 
+ 1433  go build service.go
+ 1434  cd ..
+ 1435  go build service.go
+ 1436  cd ..
+ 1437  cd newrelic/
+ 1438  ./service
+ 1439  cd newrelic/
+ 1440  go build service.go
+ 1441  ./service
+ 1442  go build service.go
+ 1443  ./service
+ 1444  go build service.go
+ 1445  ./service
+ 1446  go build service.go
+ 1447  ./service
+ 1448  go build service.go
+ 1449  ./service
+ 1450  go build service.go
+ 1451  ./service
+ 1452  cd logs
+ 1453  ls
+ 1454  vim mylogger.log 
+ 1455  cd ..
+ 1456  vim mylogger.log 
+ 1457  go build service.go
+ 1458  ./service
+ 1459  go build service.go
+ 1460  ./service
+ 1461  ls
+ 1462  mv auth conf
+ 1463  go build service.go
+ 1464  ./service
+ 1465  go build service.go
+ 1466  ./service
+ 1467  go build service.go
+ 1468  ./service
+ 1469  go build service.go
+ 1470  ./service
+ 1471  go build service.go
+ 1472  ./service
+ 1473  go build service.go
+ 1474  ./service
+ 1475  go test -v ./...
+ 1476  go build service.go
+ 1477  ./service
+ 1478  go build service.go
+ 1479  ./service
+ 1480  go build service.go
+ 1481  ./service
+ 1482  go build service.go
+ 1483  ./service
+ 1484  go build service.go
+ 1485  ./service
+ 1486  go build service.go
+ 1487  ./service
+ 1488  go build service.go
+ 1489  ./service
+ 1490  go build service.go
+ 1491  ./service
+ 1492  go build service.go
+ 1493  ./service
+ 1494  go build service.go
+ 1495  ./service
+ 1496  go build service.go
+ 1497  ./service
+ 1498  go build service.go
+ 1499  ./service
+ 1500  go build service.go
+ 1501  ./service
+ 1502  go build service.go
+ 1503  ./service
+ 1504  go build service.go
+ 1505  ./service
+ 1506  go build service.go
+ 1507  ./service
+ 1508  go build service.go
+ 1509  ./service
+ 1510  go build service.go
+ 1511  ./service
+ 1512  go build service.go
+ 1513  ./service
+ 1514  go build service.go
+ 1515  ./service
+ 1516  curl http://DanielePalaia:Dracula985@api.github.com/repos/flyve-mdm/flyve-mdm-ios-inventory/contributors
+ 1517  go build service.go
+ 1518  curl http://DanielePalaia:Dracula985@api.github.com/repos/flyve-mdm/flyve-mdm-ios-inventory/contributors
+ 1519  ./service
+ 1520  go build service.go
+ 1521  ./service
+ 1522  go build service.go
+ 1523  ./service
+ 1524  go build service.go
+ 1525  ./service
+ 1526  go build service.go
+ 1527  ./service
+ 1528  go build service.go
+ 1529  ./service
+ 1530  go build service.go
+ 1531  ./service
+ 1532  go build service.go
+ 1533  ./service
+ 1534  pwd
+ 1535  cd gosrc
+ 1536  ls
+ 1537  cd src
+ 1538  ls
+ 1539  cd newrelic/
+ 1540  ls
+ 1541  goimports -w service.go
+ 1542  goimport -w service.go
+ 1543  gofmt -w service.go
+ 1544  cd engine/
+ 1545  ls
+ 1546  gofmt engine.go 
+ 1547  gofmt -w engine.go 
+ 1548  pwd
+ 1549  cd ..
+ 1550  ls
+ 1551  cd request/
+ 1552  gofmt -w request.go 
+ 1553  cd ..
+ 1554  cd response/
+ 1555  gofmt -w response.go 
+ 1556  cd ..
+ 1557  cd log
+ 1558  ls
+ 1559  cd servicelog/
+ 1560  gofmt -w servicelog.go 
+ 1561  ls
+ 1562  gofmt -w logging.go 
+ 1563  cd ..
+ 1564  ls
+ 1565  cd test
+ 1566  gofmt -w service_test.go 
+ 1567  pwd
+ 1568  cd ..
+ 1569  ls
+ 1570  cd utility/
+ 1571  ls
+ 1572  gofmt -w utility.go 
+ 1573  curl http://localhost:8080/location=Barcelona+50
+ 1574  curl https://DanielePalaia:Dracula985@api.github.com/repos/ajsb85/2200087-Serial-Protocol/contributors
+ 1575  history
+ 1576  history > prova

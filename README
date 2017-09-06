@@ -1,0 +1,66 @@
+These are just the istructions to run the service, Full description of the implementation choice can be found in doc/doc.txt
+
+The project can be run inside your machine or inside a Docker image (Dockerfile provided)
+
+Run in your machine:
+
+The project has been implemented in GO. Assuming the GOPATH, GOROOT are set correctly the project can be decompressed
+inside the GOPATH directory and can be compiled in this way:
+
+go build service.go
+
+a binary service will be created and once started it will be listening on port 8080
+
+./service
+
+You can also install the project with:
+
+go install newrelic
+
+and find the newrelic binary inside GOPATH/bin and run from there.
+
+./newrelic
+
+You can test with
+
+curl http://localhost:8080/location=Barcelona+50
+
+Unit tests are provided you can just run:
+
+go test -v ./...
+
+to run the test suite.
+
+Run the project inside a docker image:
+
+A Dockerfile is provided, so you can just:
+
+sudo  docker build -t newrelic .
+docker run --publish 6060:8080 --name test --rm newrelic
+
+The process is then running on external port 6060
+
+You can test with
+
+curl http://localhost:6060/location=Barcelona+50
+
+NOTE: I had difficulty to test the product directly using the GIT api as at a given point I receive back this message
+{
+  "message": "API rate limit exceeded for 188.153.209.233.
+}
+
+To avoid this is necessary to be authenticated, so I provided a conf file inside this directory where you need to put
+a valid github username/password. YOU SHOULD ALSO SPECIFY IF YOU WANT THE APPLICATION BE RUN WITH OR WITHOUT THREADING,
+putting yes or not. The conf file is like this
+USERNAME:
+PASSWD:
+MULTITHREADING:no
+you can put your GITHUB username and passwd here. Without this information the service will send requests without authentication.
+In this way you can do more request to the github api but always limited to 5000 per hour, so at a given point I have:
+ "message": "API rate limit exceeded for DanielePalaia.",
+  "documentation_url": "https://developer.github.com/v3/#rate-limiting"
+  and the service canno't go ahead
+
+So I had some difficulties to fully test the product with a lot of users and I mainly relied on unit testing, even because
+it seems that github is avoiding sending reply to user who are sending a lot of requests at the same time (like in the case
+of the multithreading approach)

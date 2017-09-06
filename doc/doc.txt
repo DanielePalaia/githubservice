@@ -1,0 +1,60 @@
+This is a brief description of the implementation strategy of the project
+
+Strategy adopted: The first step of the realization of the project was to study the git api and the services it offers at
+https://developer.github.com/v3/ and in particular at https://developer.github.com/v3/search. After carefullly study them,
+I didn't really find a direct way to find the amount of contributions for a given user directly. So I adopted this strategy.
+I send a first request to github to receive the users that are located in Barcelona with this kind of url:
+
+https://api.github.com/search/users?q=+location:%s&sort=repositories&page=%d&per_page=150
+
+There is by the way a cap in the amount of entries the api returns (it doesn't really reaturn all the entries).
+Then for every user I request the last 100 pull request of this year accepted and closed with this kind of url:
+
+https://api.github.com/search/issues?q=type:pr+state:closed+closed:>2017-01-01+author:%s&per_page=100&page=1
+
+Then for every request I get the repository contributors and I check that the user is present inside the contributors list
+with this kind of url:
+
+https://api.github.com/users/user/repo/contributors
+
+At a given point for every user I know the login name, the number of contributions and the number of repositories contributed.
+I order all this info by contributions, then I limit the list to the amount specified in input and then I reorder the small
+list of 50,100 or 150 user by number of repositories contributed.
+
+Input: The service receive an http request for this form (test have been done with curl)
+
+curl localhost:8080/location=Barcelona+50
+
+where location is the city and +50 or +100 or +150 the top contributors we want to be returned. Any other options will return a bad request
+http response
+
+Output: A json result output with the login name, the amount of contributions and the number of repositories contributed,
+ordered by this last value.
+
+NOTE: Git hut limit the amount of request that can be done per hours, this value can be increased for authenticated request.
+So I put a file conf where can be specified a username or a password to increase the testabiliy of the project.
+
+Structure of the project:
+The project has been implemented in GO, using just the net/http library without using any particular framework.
+The project is organized by packages, where we have the request which contains request validation
+functions, response which contains structures and functions needed for the output response, servicelog which contain a basic
+log system for the service and engine.go which contains the main algorithm function.
+Service.go contains the main function to load the microservice.
+
+Scalability: Some scalability optimization have been implemented. I try to limit the amount of remote requests.
+For every PR a user does we need to check if the user is present in the contributor list of the repository.
+I use some kind of duplicate check to avoid checking the same repository more than once.
+Because is likely that a user contribute mainly to the same small set of repository this can improve the performance doing
+less remote call to github.
+Multithreading:
+You can specify if the system run in multithreading mode in the conf file putting yes in the field, otherwise the service
+will run in serial mode.
+Because there are a lot of remote calls and the computation is not high intensive and because the goroutine
+should be lightweight it makes sense to spawn many routines. For every user a goroutine is spawn to compute the amount of
+contributions and total_repositories a user has (so because we are fetching 150 users per time 150 goroutines are in average run).
+We could also think to do the same thing spawning as much routines for everh repo request to try to maximize the amount of parallelism.
+We can choice in the conf file to set multithreading or not setting yes or not.
+
+Testing: Some unit tests are provided inside the test directory as well containing also some json data files.
+They cover the critical part of the code.
+
