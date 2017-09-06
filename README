@@ -15,11 +15,11 @@ a binary service will be created and once started it will be listening on port 8
 
 You can also install the project with:
 
-go install newrelic
+go install githubservice
 
 and find the newrelic binary inside GOPATH/bin and run from there.
 
-./newrelic
+./githubservice
 
 You can test with
 
@@ -35,8 +35,8 @@ Run the project inside a docker image:
 
 A Dockerfile is provided, so you can just:
 
-sudo  docker build -t newrelic .
-docker run --publish 6060:8080 --name test --rm newrelic
+sudo  docker build -t githubservice .
+docker run --publish 6060:8080 --name test --rm githubservice
 
 The process is then running on external port 6060
 
